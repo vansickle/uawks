@@ -14,6 +14,7 @@ h1. Changes from original UAWKS
 * CapsLock mapped to Win key (I never used CapsLock in the my whole life - so it's good key to remap)
 * Alt-Space is mapped to Ctrl-Shift, which means that is you have Windows with Ctrl-Shift as keyboard layout change sequence you can change layout the same way as you do it on Mac (also I think Alt-Space is more comfortable)
 * Cmd-Space is mapped to Alt-Space - to work with Launchy (setted to Alt-Space shortcut) the same way as you launch applications on Mac with Spotlight
+** We need such remapping in UAWKS because Launchy that I used to start apps can't itself use Win(Cmd)-Space on Win7 due to Windows internal mappings
 
 h1. Problems
 
