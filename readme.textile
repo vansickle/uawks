@@ -1,0 +1,20 @@
+h1. Fork of UAWKS Unofficial Apple Wireless Keyboard Support for Windows 
+
+Original source: http://code.google.com/p/uawks/
+Original readme in OrigReadme.txt
+
+this fork is just UAWKS with some (probably raw) features I personally needed
+
+You need latest http://www.autohotkey.com/ installed to run it (run UAWKS.ahk)
+
+h1. Changes from original UAWKS
+
+* Both Cmd and Ctrl mapped to Ctrl (with exception to Cmd-Space and Cmd-L, see below)
+* Eject key mapped to Insert key
+* CapsLock mapped to Win key (I never used CapsLock in the my whole life - so it's good key to remap)
+* Alt-Space is mapped to Ctrl-Shift, which means that is you have Windows with Ctrl-Shift as keyboard layout change sequence you can change layout the same way as you do it on Mac (also I think Alt-Space is more comfortable)
+* Cmd-Space is mapped to Alt-Space - to work with Launchy (setted to Alt-Space shortcut) the same way as you launch applications on Mac with Spotlight
+
+h1. Problems
+
+* No solution to Cmd(Win)-L problem - Windows always blocks desktop on this shortcut
